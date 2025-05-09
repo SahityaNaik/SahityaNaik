@@ -5,7 +5,7 @@
 
 - 📫 How to reach me? **sahityanaik03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16Q8XKx_kR3xBtRwmRywMrsg3Ycgcj6D6/view?usp=sharing](https://drive.google.com/file/d/16Q8XKx_kR3xBtRwmRywMrsg3Ycgcj6D6/view?usp=sharing)
+- 📄 Check out my resume: [https://drive.google.com/file/d/16Q8XKx_kR3xBtRwmRywMrsg3Ycgcj6D6/view?usp=sharing](https://drive.google.com/file/d/16Q8XKx_kR3xBtRwmRywMrsg3Ycgcj6D6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
