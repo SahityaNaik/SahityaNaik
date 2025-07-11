@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahitya Naik</h1>
 <h3 align="center">A recent MCA graduate passionate about Web Development and Programming</h3>
 
-- 🌱 Currently learning the **MERN Stack, Data Structures, and Algorithms**
+- 🌱 Currently learning the **MERN Stack**
 
 - 📫 How to reach me? **sahityanaik03@gmail.com**
 
