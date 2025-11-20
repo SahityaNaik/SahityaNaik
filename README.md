@@ -3,13 +3,16 @@
 
 <p align="center">
   <a href="mailto:sahityanaik03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/sahitya-naik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sahitya%20Naik-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://drive.google.com/file/d/1jWwzYxjovr7cb6o4UwvlBRQdIa07YkpL/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://sahitya-naik.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
