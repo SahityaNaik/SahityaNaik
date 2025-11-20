@@ -25,19 +25,20 @@
 
 ### 🚀 Projects
 
-- **Project 1 – [Project Name](https://github.com/your-username/your-project)**
-  - Short description (e.g., "A full-stack MERN app for ...")
-  - **Tech**: React, Node.js, Express, MongoDB
+- **StayEase – MERN Hotel Booking Website**  
+  - MERN stack hotel booking platform with room listings, bookings, secure Stripe payments, Clerk authentication, and Cloudinary image hosting.  
+  - **Tech**: React, Node.js, Express, MongoDB, Stripe, Clerk, Cloudinary  
+  - [`Live`](https://stayease-hotel-booking.vercel.app/)
 
-- **Project 2 – [Project Name](https://github.com/your-username/your-project)**
-  - Short description (e.g., "Responsive portfolio website with ...")
-  - **Tech**: HTML, CSS, JavaScript, Tailwind CSS
+- **Musicflow Web Player**  
+  - A fully functional, lightweight music player web app inspired by Spotify, with playlists and a clean, responsive UI.  
+  - **Tech**: JavaScript, HTML, CSS  
+  - [`Live`](https://musicflow-web-player.vercel.app/)
 
-- **Project 3 – [Project Name](https://github.com/your-username/your-project)**
-  - Short description (e.g., "API for ... with authentication and CRUD operations")
-  - **Tech**: Node.js, Express, MongoDB
-
-> Add 3–5 real projects here, with GitHub links and (if possible) live demos.
+- **AI Interview Prep App**  
+  - An interactive web app to help users practice for interviews with curated questions and a smooth, focused UI for interview preparation.  
+  - **Tech**: React, Tailwind CSS, Node.js, Express, MongoDB, Cloudinary  
+  - [`Live`](https://ai-interview-prep-app-bay.vercel.app/)
 
 ---
 
