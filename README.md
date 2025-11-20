@@ -31,9 +31,9 @@
 
 | Project | Description | Tech | Live | Repo |
 |--------|-------------|------|------|------|
-| **StayEase – MERN Hotel Booking Website** | Hotel booking platform with room listings, bookings, secure Stripe payments, Clerk authentication, and Cloudinary image hosting. | React, Node.js, Express, MongoDB, Stripe, Clerk, Cloudinary | [Live](https://stayease-hotel-booking.vercel.app/) | [Repo](https://github.com/sahityanaik/stayease) |
-| **Musicflow Web Player** | Lightweight music player web app inspired by Spotify, with playlists and a clean, responsive UI. | JavaScript, HTML, CSS | [Live](https://musicflow-web-player.vercel.app/) | [Repo](https://github.com/sahityanaik/musicflow-web-player) |
-| **AI Interview Prep App** | Interactive app to practice interview questions with a focused UI and full-stack functionality. | React, Tailwind CSS, Node.js, Express, MongoDB, Cloudinary | [Live](https://ai-interview-prep-app-bay.vercel.app/) | [Repo](https://github.com/sahityanaik/ai-interview-prep-app) |
+| **StayEase – MERN Hotel Booking Website** | Hotel booking platform with room listings, bookings, secure Stripe payments, Clerk authentication, and Cloudinary image hosting. | React, Node.js, Express, MongoDB, Stripe, Clerk, Cloudinary | [Live](https://stayease-hotel-booking.vercel.app/) | [Repo](https://github.com/SahityaNaik/StayEase-Hotel-Booking-Website) |
+| **Musicflow Web Player** | Lightweight music player web app inspired by Spotify, with playlists and a clean, responsive UI. | JavaScript, HTML, CSS | [Live](https://musicflow-web-player.vercel.app/) | [Repo](https://github.com/SahityaNaik/Musicflow-Web-Player) |
+| **AI Interview Prep App** | Interactive app to practice interview questions with a focused UI and full-stack functionality. | React, Tailwind CSS, Node.js, Express, MongoDB, Cloudinary | [Live](https://ai-interview-prep-app-bay.vercel.app/) | [Repo](https://github.com/SahityaNaik/ai-interview-prep-app) |
 
 <br/>
 
@@ -78,5 +78,4 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahityanaik&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sahityanaik&show_icons=true&theme=default" alt="GitHub Summary" />
 </p>
