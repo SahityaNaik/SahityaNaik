@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahitya Naik</h1>
 
-<h3 align="center">MCA graduate passionate about building modern web applications with the MERN stack</h3>
+<h3 align="center">MCA graduate focused on building web applications using modern technologies.</h3>
 
 <p align="center">
   <a href="mailto:sahityanaik03@gmail.com">
