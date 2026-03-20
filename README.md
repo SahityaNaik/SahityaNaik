@@ -32,8 +32,9 @@
 | Project | Description | Tech | Live | Repo |
 |--------|-------------|------|------|------|
 | **StayEase – MERN Hotel Booking Website** | Hotel booking platform with room listings, bookings, secure Stripe payments, Clerk authentication, and Cloudinary image hosting. | React, Node.js, Express, MongoDB, Stripe, Clerk, Cloudinary | [Live](https://stayease-hotel-booking.vercel.app/) | [Repo](https://github.com/SahityaNaik/StayEase-Hotel-Booking-Website) |
+| **HiddenInbox - Anonymous Messaging Web App** | Full-stack anonymous messaging platform with a glassmorphism UI, secure JWT authentication, and a personal dashboard for managing received notes. | React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB | [Live](https://hiddeninbox.vercel.app) | [Repo](https://github.com/SahityaNaik/hiddeninbox) |
 | **Musicflow Web Player** | Lightweight music player web app inspired by Spotify, with playlists and a clean, responsive UI. | JavaScript, HTML, CSS | [Live](https://musicflow-web-player.vercel.app/) | [Repo](https://github.com/SahityaNaik/Musicflow-Web-Player) |
-| **AI Interview Prep App** | Interactive app to practice interview questions with a focused UI and full-stack functionality. | React, Tailwind CSS, Node.js, Express, MongoDB, Cloudinary | [Live](https://ai-interview-prep-app-bay.vercel.app/) | [Repo](https://github.com/SahityaNaik/ai-interview-prep-app) |
+
 
 <br/>
 
