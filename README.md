@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://drive.google.com/file/d/1Y1JcZMmPptwNQBL-tuZ3TzkVGK2Sn6FA/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />++++++
   </a>
   <a href="https://sahitya-naik.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -41,7 +41,7 @@
 ### 🛠️ Languages & Tools
 **Programming Languages**
 
-<p align="left">
+<p align="left" style="white-space: nowrap;>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -49,7 +49,7 @@
 
 **Frontend**
 
-<p align="left">
+<p align="left" style="white-space: nowrap;>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
@@ -59,7 +59,7 @@
 
 **Backend & Databases**
 
-<p align="left">
+<p align="left" style="white-space: nowrap;>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
@@ -68,7 +68,7 @@
 
 **Tools & Platforms**
 
-<p align="left">
+<p align="left" style="white-space: nowrap;>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
