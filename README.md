@@ -19,14 +19,6 @@
 
 <br/>
 
-### 👩‍💻 About Me
-- 🌱 **Currently learning**: MERN Stack (MongoDB, Express, React, Node.js)
-- 💻 **Interests**: Web development, REST APIs, responsive UI, and clean, maintainable code
-- 🎯 **Goal**: Contribute to real-world projects and grow as a full-stack developer
-- 📫 **Email**: `sahityanaik03@gmail.com`
-
-<br/>
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech | Live | Repo |
