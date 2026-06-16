@@ -23,7 +23,7 @@
 
 | Project | Description | Tech | Live | Repo |
 |--------|-------------|------|------|------|
-| **Crypto Market Intelligence Platform** | Real-time cryptocurrency tracking platform with live price updates, analytics, background data fetching, and WebSockets. | React, Vite, Tailwind CSS, Node.js, Express, PostgreSQL, Socket.io | [Live](https://crypto-market-intelligence-platform-six.vercel.app/) | [Repo](https://github.com/SahityaNaik/crypto-market-intelligence-platform) |
+| **Crypto Market Intelligence Platform** | Real-time cryptocurrency tracking platform with live price updates, analytics, background data fetching, and WebSockets. | React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Socket.io | [Live](https://crypto-market-intelligence-platform-six.vercel.app/) | [Repo](https://github.com/SahityaNaik/crypto-market-intelligence-platform) |
 | **StayEase – MERN Hotel Booking Website** | Hotel booking platform with room listings, bookings, secure Stripe payments, Clerk authentication, and Cloudinary image hosting. | React, Node.js, Express, MongoDB, Stripe, Clerk, Cloudinary | [Live](https://stayease-hotel-booking.vercel.app/) | [Repo](https://github.com/SahityaNaik/StayEase-Hotel-Booking-Website) |
 | **HiddenInbox - Anonymous Messaging Web App** | Full-stack anonymous messaging platform with a glassmorphism UI, secure JWT authentication, and a personal dashboard for managing received notes. | React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB | [Live](https://hiddeninbox.vercel.app) | [Repo](https://github.com/SahityaNaik/hiddeninbox) |
 
