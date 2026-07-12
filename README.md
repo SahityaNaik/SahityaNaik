@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/sahitya-naik" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://drive.google.com/file/d/1qcL2VkJL7YlDNAMEIZBne4T42rmbGGvg/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1rSMiul7Vo6KArlvU0QxEhZDnXt7S6EHR/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
   <a href="https://sahitya-naik.vercel.app/" target="_blank" rel="noopener noreferrer">
